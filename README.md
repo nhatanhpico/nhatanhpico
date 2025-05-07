@@ -1,16 +1,46 @@
-## Hi there 👋
+# NHAT ANH PICO <br> 阮梅日英
 
-<!--
-**nhatanhpico/nhatanhpico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`A pianist can code? It is me!`**
 
-Here are some ideas to get you started:
+I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tung University**.  Passionate about building creative tech to solve real-world problems. I love combining creativity with technology—from coding apps to art.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## TECH STACK
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+## VIDEOS
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nhatanhpico?sub_confirmation=1)
+
+## GITHUB STATS
+![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anh-dz&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+
+![Anh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anh-dz&layout=compact&theme=tokyonight)
+
+## GET IN TOUCH
+
+E-mail: <a href="mailto:nmnanh1235@gmail.com">nmnanh1235@gmail.com</a>
+
+Linkedin: <a href="https://linkedin.com/in/nhatanhpico">nhatanhpico</a>
+
+<!-- <a style="color: white; text-decoration: none;" href="https://www.youtube.com/@nhatanhpico?sub_confirmation=1">👉 Subscribe My Youtube Channel</a> -->
