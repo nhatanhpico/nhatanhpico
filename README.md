@@ -39,7 +39,12 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 ## VIDEOS
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Unbox The Best BUDGET Wireless Mic - Lark M2](https://ytcards.demolab.com/?id=4CwSeMqSbc4&title=Unbox+The+Best+BUDGET+Wireless+Mic+-+Lark+M2&lang=en&timestamp=1746277209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unbox The Best BUDGET Wireless Mic - Lark M2")](https://www.youtube.com/watch?v=4CwSeMqSbc4)
+[![My Life as a CS Student](https://ytcards.demolab.com/?id=SbZE1DVZUUU&title=My+Life+as+a+CS+Student&lang=en&timestamp=1745668858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Life as a CS Student")](https://www.youtube.com/watch?v=SbZE1DVZUUU)
+[![Khám phá phòng tập đàn trường đại học Giao Thông](https://ytcards.demolab.com/?id=Nflqwi8iD3Q&title=Kh%C3%A1m+ph%C3%A1+ph%C3%B2ng+t%E1%BA%ADp+%C4%91%C3%A0n+tr%C6%B0%E1%BB%9Dng+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+Giao+Th%C3%B4ng&lang=en&timestamp=1745060438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Khám phá phòng tập đàn trường đại học Giao Thông")](https://www.youtube.com/watch?v=Nflqwi8iD3Q)
+[![Thử thách sống sót 14 ngày trại hè FCT](https://ytcards.demolab.com/?id=xF0QX24W4zc&title=Th%E1%BB%AD+th%C3%A1ch+s%E1%BB%91ng+s%C3%B3t+14+ng%C3%A0y+tr%E1%BA%A1i+h%C3%A8+FCT&lang=en&timestamp=1721733361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Thử thách sống sót 14 ngày trại hè FCT")](https://www.youtube.com/watch?v=xF0QX24W4zc)
+[![Cùng mình làm một app iOS đơn giản bằng XCode](https://ytcards.demolab.com/?id=3GGs9N5H1yg&title=C%C3%B9ng+m%C3%ACnh+l%C3%A0m+m%E1%BB%99t+app+iOS+%C4%91%C6%A1n+gi%E1%BA%A3n+b%E1%BA%B1ng+XCode&lang=en&timestamp=1692365271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cùng mình làm một app iOS đơn giản bằng XCode")](https://www.youtube.com/watch?v=3GGs9N5H1yg)
+[![Trại hè FCT tại F-Complex Đà Nẵng](https://ytcards.demolab.com/?id=7KlWCqu4Fw0&title=Tr%E1%BA%A1i+h%C3%A8+FCT+t%E1%BA%A1i+F-Complex+%C4%90%C3%A0+N%E1%BA%B5ng&lang=en&timestamp=1688386416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Trại hè FCT tại F-Complex Đà Nẵng")](https://www.youtube.com/watch?v=7KlWCqu4Fw0)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nhatanhpico?sub_confirmation=1)
